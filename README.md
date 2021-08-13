@@ -27,7 +27,7 @@ Curso de la escuela de desarrollo web.
 - Tercer Paso: crear funciones.
 - Cuarto paso: integrar JS con HTML.
 
-## Taller 3: Salarios
+## Taller 4: Salarios
 
 - Primer paso: Definir las fórmulas.
 - Segundo paso: Implementar las fórmulas en JS.
